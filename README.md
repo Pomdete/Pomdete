@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CFTfull
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning artificial intelligence
+- 💞️ I’m looking to collaborate on data science
+- 📫 How to reach me <https://www.linkedin.com/in/arnaud-charpentier-b536901a7>
