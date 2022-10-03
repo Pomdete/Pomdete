@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CFTfull
+- 👋 Hi, I’m Arnaud Charpentier
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on data science
