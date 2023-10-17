@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnaud Charpentier
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in data science and IA more specifically
+- 🌱 I’m currently working as a Data Engineer
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me <https://www.linkedin.com/in/arnaud-charpentier-b536901a7>
